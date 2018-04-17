@@ -23,3 +23,5 @@ Ex:
     python main.py --ruler --xml xml --image images/extset/set2/img5.png --imageset dmed_2
     
 Nota: repositório e código precisam de limpeza
+
+Imagens de teste: https://www.dropbox.com/sh/gb3rknfxfij8duu/AABebPVnXN_djABVtwX4MSlEa?dl=0
